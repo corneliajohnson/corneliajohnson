@@ -28,7 +28,5 @@
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=corneliajohnson&title_color=651D22&text_color=B38D8D)](https://github.com/corneliajohnson/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliajohnson&layout=compact&title_color=651D22&text_color=B38D8D)](https://github.com/corneliajohnson/github-readme-stats)
 
-<p align="center">
 <img src="https://wakatime.com/share/@5f740850-3a5f-45b2-b058-d20655a3c987/841e4e9d-da6b-47e8-a8fc-9d51d9f03d2d.svg" width="550" height="500" >
-  </p>
 
