@@ -30,5 +30,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=corneliajohnson&title_color=651D22&text_color=B38D8D)](https://github.com/corneliajohnson/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliajohnson&layout=compact&title_color=651D22&text_color=B38D8D)](https://github.com/corneliajohnson/github-readme-stats)
 
 ### Wakatime
-<img src="https://wakatime.com/share/@5f740850-3a5f-45b2-b058-d20655a3c987/841e4e9d-da6b-47e8-a8fc-9d51d9f03d2d.svg" width="440"><img src="https://wakatime.com/share/@corneliajohnson/88f2d603-d89b-4d47-a5fb-bc32c2d7001c.svg" height="370" >
+<img src="https://wakatime.com/share/@5f740850-3a5f-45b2-b058-d20655a3c987/841e4e9d-da6b-47e8-a8fc-9d51d9f03d2d.svg" width="50%"><img src="https://wakatime.com/share/@corneliajohnson/88f2d603-d89b-4d47-a5fb-bc32c2d7001c.svg" width="50%" >
 
