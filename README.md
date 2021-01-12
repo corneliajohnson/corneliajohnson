@@ -1,4 +1,4 @@
-# Hello, I'm CJ. ![](https://www.animatedimages.org/data/media/1645/animated-waving-image-0022.gif)
+# Hello, I'm C.J.   ![](https://www.animatedimages.org/data/media/1645/animated-waving-image-0022.gif)
 
 ![](https://user-images.githubusercontent.com/38992646/104315081-69ba7b80-54a8-11eb-91e9-68650adf1788.png)
 
