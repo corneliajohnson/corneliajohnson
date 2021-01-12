@@ -1,6 +1,6 @@
-![Don't forget to subscribe!](https://user-images.githubusercontent.com/38992646/104315081-69ba7b80-54a8-11eb-91e9-68650adf1788.png)
+Hello, I'm CJ. ![](https://www.animatedimages.org/data/media/1645/animated-waving-image-0022.gif)
 
-Hello, I'm CJ.
+![](https://user-images.githubusercontent.com/38992646/104315081-69ba7b80-54a8-11eb-91e9-68650adf1788.png)
 
 I am full-stack software developer who builds applications with HTML, CSS, JavaScript, ReactJs, C# and other tools/technologies. I enjoy creating technology that can benefit any user. I am always looking for ways to complete projects and willing to learn any technology that is best for the end goal. 
 
