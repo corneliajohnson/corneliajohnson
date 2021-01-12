@@ -12,11 +12,12 @@
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&color=B28A5F)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=651D22)
 ![](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white&color=B38D8D)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=B28A5F)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=651D22)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&color=B38D8D)
 ![](https://img.shields.io/badg/MySQL-00000F/JavaScript-F7DF1Estyle=for-the-badge&logo=mysql&logoColor=white&color=B28A5F)
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=B28A5F)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=651D22)
+![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&color=B38D8D)
 
 
 ## Contacts
