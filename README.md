@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/38992646/104315081-69ba7b80-54a8-11eb-91e9-68650adf1788.png)
 
-#### I am full-stack software engineer, I build applications with HTML, CSS, JavaScript, ReactJs, C# and other tools/technologies. I enjoy creating technology that can benefit any user. I am always looking for ways to complete projects and willing to learn any technology that is best for the end goal. 
+#### I'm a full-stack software engineer, I build applications with HTML, CSS, JavaScript, ReactJs, C# and other tools/technologies. I enjoy creating technology that can benefit any user. I am always looking for ways to complete projects and willing to learn any technology that is best for the end goal. 
 
 #### I gained management skills through my responsibilities in the military. More importantly, I also learned how important it is to be a team player. I understand the importance of planning, communication. That awareness has lead me to complete tasks timely and resourcefully.
 
