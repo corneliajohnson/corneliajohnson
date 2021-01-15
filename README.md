@@ -18,8 +18,8 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=B28A5F)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=651D22)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&color=B38D8D)
+![](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=white&color=B28A5F)
 <!-- ![](https://img.shields.io/badge/Firebase-0089D6?style=for-the-badge&logo=firebase&logoColor=white&color=B28A5F)-->
-![](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=white&color=651D22)
 
 
 ## Contacts
