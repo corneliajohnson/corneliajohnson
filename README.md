@@ -1,5 +1,11 @@
 # Hello, I'm C.J.   ![](https://www.animatedimages.org/data/media/1645/animated-waving-image-0022.gif)
 
+### Contact Me 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corneliaj91.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelia-johnson-cs/)
+[![](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://corneliajohnson.github.io./)
+[![](https://img.shields.io/badge/Instagram-a02374?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/floridagirlcj/)
+
 ![](https://user-images.githubusercontent.com/38992646/104315081-69ba7b80-54a8-11eb-91e9-68650adf1788.png)
 
 #### I'm a full-stack software engineer, I build applications with HTML, CSS, JavaScript, ReactJs, C# and other tools/technologies. I enjoy creating beneficial applications. I am always looking for ways to enhance projects and willing to learn any technology that is best for the end goal.
@@ -21,12 +27,6 @@
 ![](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=figma&logoColor=white&color=B28A5F)
 <!-- ![](https://img.shields.io/badge/Firebase-0089D6?style=for-the-badge&logo=firebase&logoColor=white&color=B28A5F)-->
 
-
-## Contacts
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corneliaj91.com?subject=[GitHub]%20Source%20Han%20Sans)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelia-johnson-cs/)
-[![](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://corneliajohnson.github.io./)
-[![](https://img.shields.io/badge/Instagram-a02374?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/floridagirlcj/)
 
 ## Stats
 
