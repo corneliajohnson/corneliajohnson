@@ -31,5 +31,5 @@ I'm a full-stack software engineer, I build applications with HTML, CSS, JavaScr
 ### Wakatime
 <img src="https://wakatime.com/share/@5f740850-3a5f-45b2-b058-d20655a3c987/841e4e9d-da6b-47e8-a8fc-9d51d9f03d2d.svg" width="50%">
 
-<!-- <img src="https://wakatime.com/share/@corneliajohnson/88f2d603-d89b-4d47-a5fb-bc32c2d7001c.svg" width="50%" > -->
+<img src="https://wakatime.com/share/@corneliajohnson/88f2d603-d89b-4d47-a5fb-bc32c2d7001c.svg" width="50%" >
 
